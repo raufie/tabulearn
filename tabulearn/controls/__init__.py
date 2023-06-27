@@ -10,3 +10,4 @@ from .QSigma import QSigma
 from .DynaQ import DynaQ
 from .DynaQPlus import DynaQPlus
 from .PrioritizedSweeping import PrioritizedSweeping
+from ..MethodBase import MethodBase
