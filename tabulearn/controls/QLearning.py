@@ -1,4 +1,5 @@
-from MethodBase.MethodBase import MethodBase
+from MethodBase import MethodBase
+
 from tqdm import tqdm
 class QLearning(MethodBase):
     """
